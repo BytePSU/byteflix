@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+
+# Compiled files
+*.rbc
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment files
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
